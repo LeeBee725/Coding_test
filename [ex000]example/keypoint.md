@@ -28,7 +28,7 @@
 
 <style>
     red {color: red;}
-    green {color: red;}
-    yellow {color: red;}
+    green {color: green;}
+    yellow {color: yellow;}
     blue {color: blue;}
 </style>
