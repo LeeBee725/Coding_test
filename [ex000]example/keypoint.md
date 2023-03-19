@@ -25,3 +25,10 @@
 <!--[성공/실패] <실패 이유>-->
 
 ## 2차시도
+
+<style>
+    red {color: red;}
+    green {color: red;}
+    yellow {color: red;}
+    blue {color: blue;}
+</style>
